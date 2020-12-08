@@ -48,5 +48,6 @@ public class Main {
         double delta1 = funkcja(2,-3,7);
 
         mz(funkcja(2,-3,7),2,-3);
+
     }
 }
